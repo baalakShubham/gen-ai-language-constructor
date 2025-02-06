@@ -6,4 +6,10 @@ teaching instructions-
 
 example - 
 
-student input 
+student input - my name is joan doe
+
+your output should be - first make a table 
+my - japanese translate of the word 'my'
+and then for 'name' 
+and then for is 
+and then for "joan doe"
